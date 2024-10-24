@@ -17,7 +17,7 @@ Make sure you have Node.js installed on your system. If you don't have it yet, y
 ### Clone the repository
 
 ```bash
-git clone https://github.com/axelchicheportiche/boilerplate-react.git
+git clone https://github.com/axelchicheportiche/boilerplate-react-router-vite-p5.git
 cd boilerplate-react
 npm install
 npm run dev
